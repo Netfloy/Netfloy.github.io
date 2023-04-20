@@ -1,9 +1,9 @@
  .u-section-1 {
-  background-image: linear-gradient(black, #332929);
+  background-image: linear-gradient(#808080, #404040);
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 50vw;
+  min-height: 960px;
 }
 
 .u-section-1 .u-text-1 {
@@ -109,7 +109,7 @@
     width: auto;
   }
 } .u-section-2 {
-  background-image: linear-gradient(#332929, black);
+  background-image: linear-gradient(#404040, black);
 }
 
 .u-section-2 .u-sheet-1 {
@@ -208,7 +208,7 @@
     height: 1136px;
   }
 } .u-section-3 {
-  background-image: linear-gradient(black, #332929);
+  background-image: linear-gradient(black, black);
 }
 
 .u-section-3 .u-sheet-1 {
